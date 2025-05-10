@@ -1,0 +1,2 @@
+# Crear el script bash para aplicar las reglas usando curl
+bash_script = """#!/bin/bash
